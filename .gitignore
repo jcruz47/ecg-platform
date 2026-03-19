@@ -1,0 +1,28 @@
+
+# Datasets & training data
+backend/data/
+
+# Frontend build artifacts
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Env
+.env
+.env.local
+.env*.local
+
+# Environment secrets
+backend/.env
+backend/.env.local
+frontend/.env
+frontend/.env.local
+.env
+.env.local
